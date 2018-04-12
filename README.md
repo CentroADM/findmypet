@@ -1,8 +1,8 @@
-# Find My Pet
+### Find My Pet
 
 Proyecto ficticio para curso de UX
 
 
-Análisis Competitivo
+### Análisis Competitivo
 
-[We are Wof](http://www.wearewof.org/)
+- [We are Wof](http://www.wearewof.org/)
