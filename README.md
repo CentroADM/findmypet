@@ -5,4 +5,4 @@ Proyecto ficticio para curso de UX
 
 Análisis Competitivo
 
-(We are Wof)[http://www.wearewof.org/]
+[We are Wof](http://www.wearewof.org/)
